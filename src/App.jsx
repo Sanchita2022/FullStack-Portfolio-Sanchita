@@ -26,7 +26,7 @@ function App() {
       "
     >
       {/* Animated Background */}
-      <ParticlesBackground />
+      {/* <ParticlesBackground /> */}
 
       {/* Scroll Progress */}
       <ScrollProgress />
