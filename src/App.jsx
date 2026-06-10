@@ -1,5 +1,5 @@
 import ScrollProgress from "./components/ScrollProgress";
-import ParticlesBackground from "./components/ParticlesBackground";
+
 
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
